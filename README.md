@@ -1,4 +1,4 @@
-Hi there, I am Kim!
+Hi there, I am Kim Kulling!
 
 I am a professional Software-Architect and Project-Lead in my dayjob. I live with my girlfriend and two children in the northern part of Germny.
 
