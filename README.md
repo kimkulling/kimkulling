@@ -6,4 +6,6 @@ During my freetime I am working on the Asset-Importer-Lib as the Lead Developer.
 
 I am also a big fan of realtime-rendering. You can find my experiments here: https://github.com/kimkulling/osre
 
+And you can find me on blusky: @kimkulling.bsky.social
+
 If you like what I am doing and you want to support this: [![Patreon](https://cloud.githubusercontent.com/assets/8225057/5990484/70413560-a9ab-11e4-8942-1a63607c0b00.png)](http://www.patreon.com/assimp)
