@@ -9,6 +9,7 @@ I am also a big fan of realtime-rendering. You can find my experiments here: htt
 You can find my personal braindump at [Kim Kullings Braindump](https://github.com/kimkulling/kims_brain_dump)
 
 You can find me on blusky: [@kimkulling](https://bsky.app/profile/kimkulling.bsky.social)
+
 You can find me on X: [@KimKulling](https://twitter.com/kimkulling)
 
 If you like what I am doing and you want to support this: [![Patreon](https://cloud.githubusercontent.com/assets/8225057/5990484/70413560-a9ab-11e4-8942-1a63607c0b00.png)](http://www.patreon.com/assimp)
