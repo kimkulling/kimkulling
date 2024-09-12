@@ -1,6 +1,6 @@
 Hi there, I am Kim Kulling!
 
-I am a professional Software-Architect and Project-Lead in my day job. I live with my girlfriend and two children in Luebeck, a city atthe baltic see.
+I am a professional Software-Architect and Project-Lead in my day job. I live with my girlfriend and two children in Luebeck, a city at the baltic see.
 
 During my free time I am working on the Asset-Importer-Lib as the Lead Developer. When you have any questions related to the Asset Importer Lib or need some guidance feel free to contact me. You can find our Asset-Importer-Lib repo here: https://github.com/assimp/assimp
 
