@@ -12,4 +12,3 @@ My [Linktree](https://linktr.ee/kimkulling)
 
 If you like what I am doing and you want to support this: [![Patreon](https://cloud.githubusercontent.com/assets/8225057/5990484/70413560-a9ab-11e4-8942-1a63607c0b00.png)](http://www.patreon.com/assimp)
 
-Or just [Buy me a coffeee](https://buymeacoffee.com/kimkulling)
