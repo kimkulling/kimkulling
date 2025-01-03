@@ -7,7 +7,7 @@ My Projects:
 - https://github.com/kimkulling/tiny_ui
 - https://github.com/assimp/assimp_view
 - https://github.com/kimkulling/openddl-parser
-- 
+
 During my free time I am working on the Asset-Importer-Lib as the Lead Developer. When you have any questions related to the Asset Importer Lib or need some guidance feel free to contact me. You can find our Asset-Importer-Lib repo here: https://github.com/assimp/assimp
 
 I am also a big fan of real-time-rendering. You can find my experiments here: https://github.com/kimkulling/osre
