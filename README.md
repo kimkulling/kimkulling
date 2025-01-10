@@ -1,16 +1,15 @@
 Hi there, I am Kim Kulling!
 
 I am a professional Software-Architect and Project-Lead in my day job. I live with my girlfriend and two children in Luebeck, a city at the baltic see.
+Involved to:
+- https://github.com/assimp/assimp
+- 
 My Projects:
 - https://github.com/kimkulling/cppcore
 - https://github.com/kimkulling/osre
 - https://github.com/kimkulling/tiny_ui
 - https://github.com/assimp/assimp_view
 - https://github.com/kimkulling/openddl-parser
-
-During my free time I am working on the Asset-Importer-Lib as the Lead Developer. When you have any questions related to the Asset Importer Lib or need some guidance feel free to contact me. You can find our Asset-Importer-Lib repo here: https://github.com/assimp/assimp
-
-I am also a big fan of real-time-rendering. You can find my experiments here: https://github.com/kimkulling/osre
 
 You can find my braindump at [Kim Kullings Braindump](https://github.com/kimkulling/kims_brain_dump)
 
