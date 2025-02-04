@@ -5,8 +5,8 @@ Involved to:
 - https://github.com/assimp/assimp
 
 My Projects:
-- https://github.com/kimkulling/cppcore
 - https://github.com/kimkulling/osre
+- https://github.com/kimkulling/cppcore
 - https://github.com/kimkulling/tiny_ui
 - https://github.com/assimp/assimp_view
 - https://github.com/kimkulling/openddl-parser
