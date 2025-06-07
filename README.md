@@ -2,14 +2,14 @@ Hi there, I am Kim Kulling!
 
 I am a professional Software-Architect and Project-Lead in my day job. I live with my girlfriend and two children in Luebeck, a city at the baltic see.
 Involved to:
-- https://github.com/assimp/assimp
+- [The Open Asset Importer Library](https://github.com/assimp/assimp)
 
 My Projects:
-- [My Open-Source Render Engine]https://github.com/kimkulling/osre
-- [My cppcore lib]https://github.com/kimkulling/cppcore
-- [Small UI-Lib]https://github.com/kimkulling/tiny_ui
-- [An Assimp Viewer]https://github.com/assimp/assimp_view
-- [An OpenDDL Loader Lib]https://github.com/kimkulling/openddl-parser
+- [My Open-Source Render Engine](https://github.com/kimkulling/osre)
+- [My cppcore lib](https://github.com/kimkulling/cppcore)
+- [A small intermediate UI-Lib](https://github.com/kimkulling/tiny_ui)
+- [An Assimp Viewer](https://github.com/assimp/assimp_view)
+- [An OpenDDL Loader Lib](https://github.com/kimkulling/openddl-parser)
 
 You can find my braindump at [Kim Kullings Braindump](https://github.com/kimkulling/kims_brain_dump/blob/main/blog/eng/developer_jornal/dev_log.md)
 
