@@ -11,7 +11,7 @@ My Projects:
 - https://github.com/assimp/assimp_view
 - https://github.com/kimkulling/openddl-parser
 
-You can find my braindump at [Kim Kullings Braindump]([https://github.com/kimkulling/kims_brain_dump](https://github.com/kimkulling/kims_brain_dump/blob/main/blog/eng/developer_jornal/dev_log.md))
+You can find my braindump at [Kim Kullings Braindump]([https://github.com/kimkulling/kims_brain_dump](https://github.com/kimkulling/kims_brain_dump/blob/main/blog/eng/developer_jornal/dev_log.md)
 
 My [Linktree](https://linktr.ee/kimkulling)
 
