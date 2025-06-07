@@ -5,13 +5,13 @@ Involved to:
 - https://github.com/assimp/assimp
 
 My Projects:
-- https://github.com/kimkulling/osre
-- https://github.com/kimkulling/cppcore
-- https://github.com/kimkulling/tiny_ui
-- https://github.com/assimp/assimp_view
-- https://github.com/kimkulling/openddl-parser
+- [My Open-Source Render Engine]https://github.com/kimkulling/osre
+- [My cppcore lib]https://github.com/kimkulling/cppcore
+- [Small UI-Lib]https://github.com/kimkulling/tiny_ui
+- [An Assimp Viewer]https://github.com/assimp/assimp_view
+- [An OpenDDL Loader Lib]https://github.com/kimkulling/openddl-parser
 
-You can find my braindump at [Kim Kullings Braindump](https://github.com/kimkulling/kims_brain_dump](https://github.com/kimkulling/kims_brain_dump/blob/main/blog/eng/developer_jornal/dev_log.md)
+You can find my braindump at [Kim Kullings Braindump](https://github.com/kimkulling/kims_brain_dump/blob/main/blog/eng/developer_jornal/dev_log.md)
 
 My [Linktree](https://linktr.ee/kimkulling)
 
