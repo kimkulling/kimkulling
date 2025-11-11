@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkulling)](https://github.com/anuraghazra/github-readme-stats)
+
 Hi there, I am Kim Kulling!
 
 I am a professional Software-Architect and Project-Lead in my day job. I live with my girlfriend and two children in Luebeck, a city at the baltic see.
