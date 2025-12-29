@@ -2,7 +2,7 @@
 
 Hi there, I am Kim Kulling!
 
-I am a professional Software-Architect and Project-Lead in my day job. I live with my girlfriend and two children in Luebeck, a city at the baltic see.
+I am a professional Software-Architect and Project-Lead in my day job. I live with my girlfriend and two children in Luebeck, a city on the Baltic Sea.
 Involved to:
 - [The Open Asset Importer Library](https://github.com/assimp/assimp)
 
