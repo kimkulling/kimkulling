@@ -9,12 +9,12 @@ Involved to:
 
 ## My Projects:
 - [My 2D/3D Render Engine](https://github.com/kimkulling/Segfault)
-- [My cppcore lib](https://github.com/kimkulling/cppcore)
+- [A cppcore lib for stl-free projects](https://github.com/kimkulling/cppcore)
 - [A tiny UI lib](https://github.com/kimkulling/tiny_ui)
 - [A small intermediate UI-Lib](https://github.com/kimkulling/tiny_ui)
 - [An OpenDDL Loader Lib](https://github.com/kimkulling/openddl-parser)
-- [An Assimp Viewer](https://github.com/assimp/assimp_view)
-- [My experimental Open-Source Render Engine](https://github.com/kimkulling/osre)
+- [Another Assimp Viewer](https://github.com/assimp/assimp_view)
+- [My experimental Open-Source Render-Engine](https://github.com/kimkulling/osre)
 
 ## My tech-stack:
 - C/C++
@@ -27,7 +27,6 @@ Involved to:
 ## Find me in the Internet
 - You can find my braindump at [Kim Kullings Braindump](https://github.com/kimkulling/kims_brain_dump/blob/main/blog/eng/developer_jornal/dev_log.md)
 - My [Website](https://www.kimkulling.com)
-
-If you like what I am doing and you want to support this: [![Patreon](https://cloud.githubusercontent.com/assets/8225057/5990484/70413560-a9ab-11e4-8942-1a63607c0b00.png)](http://www.patreon.com/assimp)
+- Find me on [![Patreon](https://cloud.githubusercontent.com/assets/8225057/5990484/70413560-a9ab-11e4-8942-1a63607c0b00.png)](http://www.patreon.com/assimp)
 
 
