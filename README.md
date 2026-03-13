@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkulling)](https://github.com/anuraghazra/github-readme-stats)
-
 # Hi there, I am Kim Kulling!
 
 ## About me
