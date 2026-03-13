@@ -23,6 +23,11 @@ Involved to:
 - Fortran
 - OpenGL / Vulkan
 - QT / QML
+- Operation Sytems
+  - Linux
+  - Windows
+  - Zephyr
+  - uCos II 
   
 ## Find me in the Internet
 - You can find my braindump at [Kim Kullings Braindump](https://github.com/kimkulling/kims_brain_dump/blob/main/blog/eng/developer_jornal/dev_log.md)
