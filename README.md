@@ -15,14 +15,18 @@ Involved to:
 - [My experimental Open-Source Render-Engine](https://github.com/kimkulling/osre)
 
 ## My tech-stack:
-- C/C++
-- Rust
-- Javascript
-- C#
-- Python
-- Fortran
-- OpenGL / Vulkan
-- QT / QML
+- Programming languages:
+  - C/C++
+  - Rust
+  - Javascript
+  - C#
+  - Python
+  - Fortran
+- Special technologies
+  - OpenGL
+  - Vulkan
+  - Model asset loading
+  - QT / QML
 - Operation Sytems
   - Linux
   - Windows
