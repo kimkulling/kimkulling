@@ -27,11 +27,17 @@ Involved to:
   - Vulkan
   - Model asset loading
   - QT / QML
-- Operation Sytems
+  - MQTT
+  - REST, Protobuf etc.
+- Operation Systems
   - Linux
   - Windows
   - Zephyr
-  - uCos II 
+  - uCos II
+- Methods
+  - Kanban
+  - Scrum
+  - Agentic Coding (Claude, Mistral Vibe)
   
 ## Find me in the Internet
 - You can find my braindump at [Kim Kullings Braindump](https://github.com/kimkulling/kims_brain_dump/blob/main/blog/eng/developer_jornal/dev_log.md)
