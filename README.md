@@ -16,12 +16,11 @@ Involved to:
 
 ## My tech-stack:
 - Programming languages:
-  - C/C++
-  - Rust
-  - Javascript
-  - C#
+  - C# / C / C++
   - Python
   - Fortran
+  - Rust
+  - Javascript
 - Special technologies
   - OpenGL
   - Vulkan
@@ -29,12 +28,14 @@ Involved to:
   - QT / QML
   - MQTT
   - REST, Protobuf etc.
+  - MCP's
 - Operation Systems
   - Linux
   - Windows
   - Zephyr
   - uCos II
-- Methods
+- Development Methods
+  - Waterfall
   - Kanban
   - Scrum
   - Agentic Coding (Claude, Mistral Vibe)
