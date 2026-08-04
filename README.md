@@ -8,7 +8,7 @@ Involved to:
 ## My Projects:
 - [My 2D/3D Render Engine](https://github.com/kimkulling/Segfault)
 - [A cppcore lib for stl-free projects](https://github.com/kimkulling/cppcore)
-- [A tiny UI lib](https://github.com/kimkulling/tiny_ui
+- [A tiny UI lib](https://github.com/kimkulling/tiny_ui)
 - [An OpenDDL Loader Lib](https://github.com/kimkulling/openddl-parser)
 - [Another Assimp Viewer](https://github.com/assimp/assimp_view)
 - [My experimental Open-Source Render-Engine](https://github.com/kimkulling/osre)
