@@ -2,7 +2,7 @@
 
 ## About me
 I am a professional Software-Architect and Project-Lead in my day job. I live with my girlfriend and two children in Luebeck, a city on the Baltic Sea.
-Involved to:
+Involved in:
 - [The Open Asset Importer Library](https://github.com/assimp/assimp)
 
 ## My Projects:
@@ -14,30 +14,10 @@ Involved to:
 - [My experimental Open-Source Render-Engine](https://github.com/kimkulling/osre)
 
 ## My tech-stack:
-- Programming languages:
-  - C# / C / C++
-  - Python
-  - Fortran
-  - Rust
-  - Javascript
-- Special technologies
-  - OpenGL
-  - Vulkan
-  - Model asset loading
-  - QT / QML
-  - MQTT
-  - REST, Protobuf etc.
-  - MCP's
-- Operation Systems
-  - Linux
-  - Windows
-  - Zephyr
-  - uCos II
-- Development Methods
-  - Waterfall
-  - Kanban
-  - Scrum
-  - Agentic Coding (Claude, Mistral Vibe)
+- Programming languages: C# / C / C++, Python, Fortran, Rust, Javascript,
+- Special technologies: OpenGL, Vulkan, Model asset loading, QT / QML, MQTT, REST, Protobuf etc., MCP's,
+- Operation Systems: Linux, Windows, Zephyr, uCos II
+- Development Methods: Waterfall, Kanban, Scrum, Agentic Coding (Claude, Mistral Vibe)
   
 ## Find me in the Internet
 - You can find my braindump at [Kim Kullings Braindump](https://github.com/kimkulling/kims_brain_dump/blob/main/blog/eng/developer_jornal/dev_log.md)
