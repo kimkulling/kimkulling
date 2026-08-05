@@ -2,7 +2,8 @@
 
 ## About me
 I am a professional Software-Architect and Project-Lead in my day job. I live with my girlfriend and two children in Luebeck, a city on the Baltic Sea.
-Involved in:
+
+## Involved in:
 - [The Open Asset Importer Library](https://github.com/assimp/assimp)
 
 ## My Projects:
