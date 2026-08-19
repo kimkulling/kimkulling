@@ -24,6 +24,5 @@ I am a professional Software-Architect and Project-Lead in my day job. I live wi
 ## Find me in the Internet
 - You can find my braindump at [Kim Kullings Braindump](https://github.com/kimkulling/kims_brain_dump/blob/main/blog/eng/developer_jornal/dev_log.md)
 - My [Website](https://www.kimkulling.com)
-- Find me on [![Patreon](https://cloud.githubusercontent.com/assets/8225057/5990484/70413560-a9ab-11e4-8942-1a63607c0b00.png)](http://www.patreon.com/assimp)
 
 
