@@ -14,15 +14,15 @@ I am a professional Software-Architect and Project-Lead in my day job. I live wi
 - [Another Assimp Viewer](https://github.com/assimp/assimp_view) - Just another Assimp viewer
 - [My experimental Open-Source Render-Engine](https://github.com/kimkulling/osre) - An experimental multithreaded based renderer for OpenGL
 - [Collection of awesome Gfx-Resources](https://github.com/kimkulling/awesome_gfx_resources) - A cllection of web-resources for gfx-development
+- [Kim Kullings Braindump](https://github.com/kimkulling/kims_brain_dump/blob/main/blog/eng/developer_jornal/dev_log.md)
 
 ## My tech-stack:
-- **Programming languages:** C# / C / C++, Python, Fortran, Rust, Javascript,
-- **Special technologies:** OpenGL, Vulkan, Model asset loading, QT / QML, MQTT, REST, Protobuf etc., MCP's,
-- **Operation Systems:** Linux, Windows, Zephyr, uCos II
-- **Development Methods:** Waterfall, Kanban, Scrum, Agentic Coding (Claude, Mistral Vibe)
+- **Programming languages:** C/C++, C#, Python, Fortran, Rust, Javascript
+- **Special knowledge:** OpenGL, Vulkan, Model Asset Loading, QT/QML, MQTT, REST, Protobuf etc., MCP's, FEM
+- **Operation Systems:** Linux, Windows, Android, Zephyr, uCos II
+- **Development Methods:** Kanban, Scrum, Waterfall,  Agentic Coding (Claude, Mistral Vibe)
   
 ## Find me in the Internet
-- You can find my braindump at [Kim Kullings Braindump](https://github.com/kimkulling/kims_brain_dump/blob/main/blog/eng/developer_jornal/dev_log.md)
 - My [Website](https://www.kimkulling.com)
 
 
